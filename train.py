@@ -34,7 +34,7 @@ def train():
 
     train_losses, val_losses = [], []
 
-    for epoch in range(10):
+    for epoch in range(30):
         # Обучение
         model.train()
         total_loss = 0
