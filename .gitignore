@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset and large files
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.zip
+*.tar.gz
+*.pkl
+*.pt
+*.h5
+
+# Environment
+.env
+*.env
+.venv/
+env/
+venv/
+ENV/
+
+# System
+.DS_Store
